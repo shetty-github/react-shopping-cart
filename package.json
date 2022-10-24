@@ -1,0 +1,26 @@
+{
+  "name": "react-shopping-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shetty-github/react-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shetty-github/react-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/shetty-github/react-shopping-cart#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "stripe": "^10.15.0"
+  }
+}
