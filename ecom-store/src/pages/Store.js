@@ -1,5 +1,5 @@
-import { Row, Col } from "react-bootstrap";
 import { productsArray } from "../productStore";
+import { Row, Col } from "react-bootstrap";
 import ProductCard from "../components/ProductCard";
 
 const Store = () => {
